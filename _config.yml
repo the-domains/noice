@@ -1,0 +1,14 @@
+layout_spectrum: 0.47784974076785147
+typography_spectrum: 0.7150799422524869
+color:
+  brandStrength: 0.8910199499223381
+  lightness: 0.04336690902709961
+  saturation: 0.12471530307084322
+  rhythmicContrast: 0.5347324158065021
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: noice
